@@ -1,2 +1,2 @@
 # php_script_update
-A php script 
+A php script that worked perfectly to read from a csv file and update the database. Something I did at work , we were expecting up to about 1.5 million rows of data, ended up with about 800 000. This script is intended for a one time use, of course it can be used more with some additional changes. But as for now , this does the job perfectly. I thought it was unnecessary to spend anymore time on it due to it were only to be used 1 time.
