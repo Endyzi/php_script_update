@@ -65,9 +65,6 @@ if ($bookingStmt === false) {
     die("Failed to prepare bookingStmt: " . $mysqli->error);
 }
 
-// var_dump($customerStmt, "customerstatement");
-// var_dump($bookingStmt, "bookingstatement");
-
 // if ($customerStmt === FALSE || $bookingStmt === FALSE) {
 //     echo "\nFailed to prepare statement";
 //     exit;
